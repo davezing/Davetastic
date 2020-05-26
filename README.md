@@ -1,2 +1,2 @@
 # Davetastic
-Dave Zing's first public repository
+Dave Zing's public repository
